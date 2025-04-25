@@ -1,0 +1,18 @@
+{
+  "budgets": [
+    {
+      "id": "c233",
+      "category": "Electric bill",
+      "amount": "620",
+      "date": "2003-04-25",
+      "mode": "online"
+    },
+    {
+      "id": "b90b",
+      "category": "Phone recharge",
+      "amount": "299",
+      "date": "2025-04-25",
+      "mode": "online"
+    }
+  ]
+}
